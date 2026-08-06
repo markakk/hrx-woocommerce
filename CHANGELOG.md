@@ -1,5 +1,9 @@
 # Changelog
 
+## [Unreleased]
+### Fixed
+- Fixed autoload path specified in plugin
+
 ## [1.3.4]
 ### Fixed
 - Fixed an error received when an order contains a product that has been deleted

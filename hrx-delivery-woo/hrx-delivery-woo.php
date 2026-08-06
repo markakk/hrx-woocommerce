@@ -22,7 +22,7 @@ if ( ! defined('ABSPATH') ) {
   exit;
 }
 
-require 'vendor/autoload.php';
+require_once __DIR__ . '/vendor/autoload.php';
 
 use HrxDeliveryWoo\Main;
 use HrxDeliveryWoo\Helper;
